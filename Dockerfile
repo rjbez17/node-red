@@ -1,4 +1,4 @@
-FROM nodered/node-red
+FROM nodered/node-red:2.1.4
 
 USER node-red
 
